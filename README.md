@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grs89
-- 👀 I’m interested in learning about devops, pyton, javascript, java, rush and more
+- 👀 I’m interested in learning about devops, pyton, javascript, java,and more
 - 🌱 I’m currently learning a lot of all
 - 💞️ I’m looking to collaborate on,  i don't know
 - 📫 How to reach me somewhere, for now :)
